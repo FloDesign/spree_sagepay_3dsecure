@@ -1,0 +1,3 @@
+= SpreeSagepay3dsecure
+
+This project rocks and uses MIT-LICENSE.
